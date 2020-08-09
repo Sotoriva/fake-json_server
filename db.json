@@ -2,23 +2,28 @@
   "categoria": [
     {
         "id": 1,
-        "nomeCategoria": "Cafés"
+        "nomeCategoria": "Cafés",
+        "icone": "assets/icons/Coffe.png"
     },
     {
         "id": 2,
-        "nomeCategoria": "Salgados"
+        "nomeCategoria": "Salgados",
+        "icone": "assets/icons/Salgado.png"
     },
     {
         "id": 3,
-        "nomeCategoria": "Bebidas"
+        "nomeCategoria": "Bebidas",
+        "icone": "assets/icons/Drinks.png"
     },
     {
         "id": 4,
-        "nomeCategoria": "Outros"
+        "nomeCategoria": "Pães",
+        "icone": "assets/icons/Bread.png"
     },
     {
         "id": 5,
-        "nomeCategoria": "Doces"
+        "nomeCategoria": "Doces",
+        "icone": "assets/icons/Doce.png"
     }
   ]
 }
