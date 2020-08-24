@@ -49,19 +49,19 @@
   "itemCategoria": [
     {
         "id": 1,
-        "nomeitemCategoria": "Cafés"
+        "nomeItemCategoria": "Item 1"
     },
     {
         "id": 2,
-        "nomeitemCategoria": "Salgados"
+        "nomeItemCategoria": "Item 2"
     },
     {
         "id": 3,
-        "nomeitemCategoria": "Bebidas"
+        "nomeItemCategoria": "Item 3"
     },
     {
         "id": 4,
-        "nomeitemCategoria": "Pães"
+        "nomeItemCategoria": "Item 4"
     }
   ]
 }
