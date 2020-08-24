@@ -45,5 +45,23 @@
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png"
     }
+  ],
+  "itemCategoria": [
+    {
+        "id": 1,
+        "nomeCategoria": "Cafés"
+    },
+    {
+        "id": 2,
+        "nomeCategoria": "Salgados"
+    },
+    {
+        "id": 3,
+        "nomeCategoria": "Bebidas"
+    },
+    {
+        "id": 4,
+        "nomeCategoria": "Pães"
+    }
   ]
 }
