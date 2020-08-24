@@ -45,10 +45,5 @@
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png"
     },
-    {
-        "id": 10,
-        "nomeCategoria": "Doces",
-        "icone": "assets/icons/Doce.png"
-    }
   ]
 }
