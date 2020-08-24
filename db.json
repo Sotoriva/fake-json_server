@@ -25,5 +25,30 @@
         "nomeCategoria": "Doces",
         "icone": "assets/icons/Doce.png"
     }
+    {
+        "id": 6,
+        "nomeCategoria": "Cafés",
+        "icone": "assets/icons/Coffe.png"
+    },
+    {
+        "id": 7,
+        "nomeCategoria": "Salgados",
+        "icone": "assets/icons/Salgado.png"
+    },
+    {
+        "id": 8,
+        "nomeCategoria": "Bebidas",
+        "icone": "assets/icons/Drinks.png"
+    },
+    {
+        "id": 9,
+        "nomeCategoria": "Pães",
+        "icone": "assets/icons/Bread.png"
+    },
+    {
+        "id": 10,
+        "nomeCategoria": "Doces",
+        "icone": "assets/icons/Doce.png"
+    }
   ]
 }
