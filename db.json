@@ -49,19 +49,68 @@
   "itemCategoria": [
     {
         "id": 1,
-        "nomeItemCategoria": "Item 1"
+        "nomeItemCategoria": "Item 1",
+        "idCategoria": 1
     },
     {
         "id": 2,
-        "nomeItemCategoria": "Item 2"
+        "nomeItemCategoria": "Item 2",
+        "idCategoria": 1
     },
     {
         "id": 3,
-        "nomeItemCategoria": "Item 3"
+        "nomeItemCategoria": "Item 3",
+        "idCategoria": 1
     },
     {
         "id": 4,
-        "nomeItemCategoria": "Item 4"
+        "nomeItemCategoria": "Item 4",
+        "idCategoria": 1
+    },
+    {
+        "id": 5,
+        "nomeItemCategoria": "Item 2",
+        "idCategoria": 2
+    },
+    {
+        "id": 6,
+        "nomeItemCategoria": "Item 3",
+        "idCategoria": 2
+    },
+    {
+        "id": 7,
+        "nomeItemCategoria": "Item 4",
+        "idCategoria": 2
+    },
+    {
+        "id": 8,
+        "nomeItemCategoria": "Item 2",
+        "idCategoria": 3
+    },
+    {
+        "id": 9,
+        "nomeItemCategoria": "Item 3",
+        "idCategoria": 3
+    },
+    {
+        "id": 10,
+        "nomeItemCategoria": "Item 4",
+        "idCategoria": 3
+    },
+    {
+        "id": 11,
+        "nomeItemCategoria": "Item 2",
+        "idCategoria": 4
+    },
+    {
+        "id": 12,
+        "nomeItemCategoria": "Item 3",
+        "idCategoria": 4
+    },
+    {
+        "id": 13,
+        "nomeItemCategoria": "Item 4",
+        "idCategoria": 4
     }
   ]
 }
