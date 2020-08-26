@@ -112,5 +112,25 @@
         "nomeItemCategoria": "Item 4",
         "idCategoria": 4
     }
+  ],
+  "itemVariacao": [
+    {
+        "id": 1,
+        "nomeVariacao": "Variacao 1",
+        "icone": "assets/icons/Coffe.png",
+        "idItem": 1
+    },
+    {
+        "id": 2,
+        "nomeVariacao": "Variacao 2",
+        "icone": "assets/icons/Salgado.png",
+        "idItem": 1
+    },
+    {
+        "id": 3,
+        "nomeVariacao": "Variacao 3",
+        "icone": "assets/icons/Drinks.png",
+        "idItem": 1
+    }
   ]
 }
