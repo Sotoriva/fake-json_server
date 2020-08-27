@@ -65,12 +65,12 @@
     {
         "id": 5,
         "nomeItemCategoria": "Item 2",
-        "idCategoria": 2
+        "idCategoria": 1
     },
     {
         "id": 6,
         "nomeItemCategoria": "Item 3",
-        "idCategoria": 2
+        "idCategoria": 1
     },
     {
         "id": 8,
