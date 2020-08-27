@@ -97,20 +97,38 @@
     {
         "id": 1,
         "nomeVariacao": "Variacao 1",
-        "icone": "assets/icons/Coffe.png",
+        "icone": "assets/icons/Adocante.png",
         "idItem": 1
     },
     {
         "id": 2,
         "nomeVariacao": "Variacao 2",
-        "icone": "assets/icons/Salgado.png",
+        "icone": "assets/icons/Chantilly.png",
         "idItem": 1
     },
     {
         "id": 3,
         "nomeVariacao": "Variacao 3",
-        "icone": "assets/icons/Drinks.png",
-        "idItem": 1
+        "icone": "assets/icons/Sugar.png",
+        "idItem": 3
+    },
+    {
+        "id": 4,
+        "nomeVariacao": "Variacao 4",
+        "icone": "assets/icons/Chantilly.png",
+        "idItem": 5
+    },
+    {
+        "id": 5,
+        "nomeVariacao": "Variacao 5",
+        "icone": "assets/icons/Adocante.png",
+        "idItem": 2
+    },
+    {
+        "id": 6,
+        "nomeVariacao": "Variacao 6",
+        "icone": "assets/icons/Gelo.png",
+        "idItem": 4
     }
   ]
 }
