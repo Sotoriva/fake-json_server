@@ -4,54 +4,55 @@
         "id": 1,
         "nomeCategoria": "Cafés",
         "icone": "assets/icons/Coffe.png",
-        "color": "Colors.white"
+        "color": Colors.white
     },
     {
         "id": 2,
         "nomeCategoria": "Salgados",
         "icone": "assets/icons/Salgado.png",
-        "color": "Colors.white"
+        "color": Colors.white
     },
     {
         "id": 3,
         "nomeCategoria": "Bebidas",
-        "icone": "assets/icons/Drinks.png"
+        "icone": "assets/icons/Drinks.png",
+        "color": Colors.white
     },
     {
         "id": 4,
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png",
-        "color": "Colors.blue"
+        "color": Colors.blue
     },
     {
         "id": 5,
         "nomeCategoria": "Doces",
         "icone": "assets/icons/Doce.png",
-        "color": "Colors.red"
+        "color": Colors.red
     },
     {
         "id": 6,
         "nomeCategoria": "Cafés",
         "icone": "assets/icons/Coffe.png",
-        "color": "Colors.yellow"
+        "color": Colors.yellow
     },
     {
         "id": 7,
         "nomeCategoria": "Salgados",
         "icone": "assets/icons/Salgado.png",
-        "color": "Colors.grey"
+        "color": Colors.grey
     },
     {
         "id": 8,
         "nomeCategoria": "Bebidas",
         "icone": "assets/icons/Drinks.png",
-        "color": "Colors.pink"
+        "color": Colors.pink
     },
     {
         "id": 9,
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png",
-        "color": "Colors.green"
+        "color": Colors.green
     }
   ],
   "itemCategoria": [
