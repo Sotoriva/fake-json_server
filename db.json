@@ -26,7 +26,7 @@
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png",
         "color": "#2c5232",
-        "fontColor": "#3B3F8C"
+        "fontColor": "#FFFFFF"
     },
     {
         "id": 5,
@@ -40,7 +40,7 @@
         "nomeCategoria": "Cafés",
         "icone": "assets/icons/Coffe.png",
         "color": "#c203fc",
-        "fontColor": "#3B3F8C"
+        "fontColor": "#FFFFFF"
     },
     {
         "id": 7,
