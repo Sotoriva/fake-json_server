@@ -4,55 +4,64 @@
         "id": 1,
         "nomeCategoria": "Cafés",
         "icone": "assets/icons/Coffe.png",
-        "color": "#fcdb03"
+        "color": "#fcdb03",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 2,
         "nomeCategoria": "Salgados",
         "icone": "assets/icons/Salgado.png",
-        "color": "#fc03df"
+        "color": "#fc03df",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 3,
         "nomeCategoria": "Bebidas",
         "icone": "assets/icons/Drinks.png",
-        "color": "#fc0303"
+        "color": "#fc0303",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 4,
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png",
-        "color": "#2c5232"
+        "color": "#2c5232",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 5,
         "nomeCategoria": "Doces",
         "icone": "assets/icons/Doce.png",
-        "color": "#fc6703"
+        "color": "#fc6703",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 6,
         "nomeCategoria": "Cafés",
         "icone": "assets/icons/Coffe.png",
-        "color": "#c203fc"
+        "color": "#c203fc",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 7,
         "nomeCategoria": "Salgados",
         "icone": "assets/icons/Salgado.png",
-        "color": "#0307fc"
+        "color": "#0307fc",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 8,
         "nomeCategoria": "Bebidas",
         "icone": "assets/icons/Drinks.png",
-        "color": "#03fce3"
+        "color": "#03fce3",
+        "fontColor": "#3B3F8C"
     },
     {
         "id": 9,
         "nomeCategoria": "Pães",
         "icone": "assets/icons/Bread.png",
-        "color": "#03fc03"
+        "color": "#03fc03",
+        "fontColor": "#3B3F8C"
     }
   ],
   "itemCategoria": [
