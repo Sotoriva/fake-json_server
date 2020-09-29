@@ -96,9 +96,9 @@
         "variacaoItem": [1,2,5]
     },
     {
+        "idCategoria": 1,
         "idItem": 8,
         "nomeItem": "Item 2",
-        "idCategoria": 1,
         "variacaoItem": [1,3,5]
     },
     {
