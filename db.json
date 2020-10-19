@@ -1,149 +1,127 @@
 {
-  "categoria": [
-    {
-        "id": 1,
-        "nomeCategoria": "Cafés",
-        "icone": "assets/icons/Coffe.png",
-        "color": "#fcdb03",
-        "fontColor": "#3B3F8C"
-    },
-    {
-        "id": 2,
-        "nomeCategoria": "Salgados",
-        "icone": "assets/icons/Salgado.png",
-        "color": "#fc03df",
-        "fontColor": "#3B3F8C"
-    },
-    {
-        "id": 3,
-        "nomeCategoria": "Bebidas",
-        "icone": "assets/icons/Drinks.png",
-        "color": "#fc0303",
-        "fontColor": "#FFFFFF"
-    },
-    {
-        "id": 4,
-        "nomeCategoria": "Pães",
-        "icone": "assets/icons/Bread.png",
-        "color": "#2c5232",
-        "fontColor": "#FFFFFF"
-    },
-    {
-        "id": 5,
-        "nomeCategoria": "Doces",
-        "icone": "assets/icons/Doce.png",
-        "color": "#fc6703",
-        "fontColor": "#3B3F8C"
-    },
-    {
-        "id": 6,
-        "nomeCategoria": "Cafés",
-        "icone": "assets/icons/Coffe.png",
-        "color": "#c203fc",
-        "fontColor": "#FFFFFF"
-    },
-    {
-        "id": 7,
-        "nomeCategoria": "Salgados",
-        "icone": "assets/icons/Salgado.png",
-        "color": "#0307fc",
-        "fontColor": "#FFFFFF"
-    },
-    {
-        "id": 8,
-        "nomeCategoria": "Bebidas",
-        "icone": "assets/icons/Drinks.png",
-        "color": "#03fce3",
-        "fontColor": "#3B3F8C"
-    },
-    {
-        "id": 9,
-        "nomeCategoria": "Pães",
-        "icone": "assets/icons/Bread.png",
-        "color": "#03fc03",
-        "fontColor": "#3B3F8C"
-    }
-  ],
-  "Item": [
-    {
-        "idCategoria": 1,
-        "idItem": 1,
-        "nomeItem": "Item 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 1,
-        "idItem": 2,
-        "nomeItem": "Item 2",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 1,
-        "idItem": 3,
-        "nomeItem": "Item 3",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 1,
-        "idItem": 5,
-        "nomeItem": "Item 2",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 1,
-        "idItem": 6,
-        "nomeItem": "Item 3",
-        "variacaoItem": [1,2,5]
-    },
-    {
-        "idCategoria": 1,
-        "idItem": 8,
-        "nomeItem": "Item 2",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 3,
-        "idItem": 9,
-        "nomeItem": "Item 3",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 4,  
-        "idItem": 11,
-        "nomeItem": "Item 2",
-        "variacaoItem": [1,3,5]
-    },
-    {
-        "idCategoria": 4,
-        "idItem": 12,
-        "nomeItem": "Item 3",
-        "variacaoItem": [1,3,5]
-    }
-  ],
-  "Variacao": [
-    {
-        "id": 1,
-        "nomeVariacao": "Variacao 1"
-    },
-    {
-        "id": 2,
-        "nomeVariacao": "Variacao 2"
-    },
-    {
-        "id": 3,
-        "nomeVariacao": "Variacao 3"
-    },
-    {
-        "id": 4,
-        "nomeVariacao": "Variacao 4"
-    },
-    {
-        "id": 5,
-        "nomeVariacao": "Variacao 5"
-    },
-    {
-        "id": 6,
-        "nomeVariacao": "Variacao 6"
-    }
-  ]
+    "categoria": [
+        {
+            "id": 1,
+            "nomeCategoria": "Cafés",
+            "icone": "assets/icons/Coffe.png",
+            "color": "#fcdb03",
+            "fontColor": "#3B3F8C"
+        },
+        {
+            "id": 2,
+            "nomeCategoria": "Salgados",
+            "icone": "assets/icons/Salgado.png",
+            "color": "#fc03df",
+            "fontColor": "#3B3F8C"
+        },
+        {
+            "id": 3,
+            "nomeCategoria": "Bebidas",
+            "icone": "assets/icons/Drinks.png",
+            "color": "#fc0303",
+            "fontColor": "#FFFFFF"
+        },
+        {
+            "id": 4,
+            "nomeCategoria": "Pães",
+            "icone": "assets/icons/Bread.png",
+            "color": "#2c5232",
+            "fontColor": "#FFFFFF"
+        },
+        {
+            "id": 5,
+            "nomeCategoria": "Doces",
+            "icone": "assets/icons/Doce.png",
+            "color": "#fc6703",
+            "fontColor": "#3B3F8C"
+        },
+        {
+            "id": 6,
+            "nomeCategoria": "Cafés",
+            "icone": "assets/icons/Coffe.png",
+            "color": "#c203fc",
+            "fontColor": "#FFFFFF"
+        },
+        {
+            "id": 7,
+            "nomeCategoria": "Salgados",
+            "icone": "assets/icons/Salgado.png",
+            "color": "#0307fc",
+            "fontColor": "#FFFFFF"
+        },
+        {
+            "id": 8,
+            "nomeCategoria": "Bebidas",
+            "icone": "assets/icons/Drinks.png",
+            "color": "#03fce3",
+            "fontColor": "#3B3F8C"
+        },
+        {
+            "id": 9,
+            "nomeCategoria": "Pães",
+            "icone": "assets/icons/Bread.png",
+            "color": "#03fc03",
+            "fontColor": "#3B3F8C"
+        }
+    ],
+    "Item": [
+        {
+            "idCategoria": 1,
+            "idItem": 1,
+            "nomeItem": "Item 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "variacaoItem": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "idCategoria": 1,
+            "idItem": 2,
+            "nomeItem": "Item 2",
+            "variacaoItem": []
+        },
+        {
+            "idCategoria": 1,
+            "idItem": 3,
+            "nomeItem": "Item 3",
+            "variacaoItem": [
+                1
+            ]
+        },
+        {
+            "idCategoria": 1,
+            "idItem": 5,
+            "nomeItem": "Item 2",
+            "variacaoItem": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "Variacao": [
+        {
+            "id": 1,
+            "nomeVariacao": "Variacao 1"
+        },
+        {
+            "id": 2,
+            "nomeVariacao": "Variacao 2"
+        },
+        {
+            "id": 3,
+            "nomeVariacao": "Variacao 3"
+        },
+        {
+            "id": 4,
+            "nomeVariacao": "Variacao 4"
+        },
+        {
+            "id": 5,
+            "nomeVariacao": "Variacao 5"
+        }
+    ]
 }
