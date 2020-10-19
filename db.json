@@ -68,7 +68,8 @@
         {
             "idCategoria": 1,
             "idItem": 1,
-            "nomeItem": "Item 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "nomeItem": "Item 1",
+            "valorItem": 15.00,
             "variacaoItem": [
                 1,
                 2,
@@ -79,20 +80,33 @@
             "idCategoria": 1,
             "idItem": 2,
             "nomeItem": "Item 2",
+            "valorItem": 50.45,
             "variacaoItem": []
         },
         {
             "idCategoria": 1,
             "idItem": 3,
             "nomeItem": "Item 3",
+            "valorItem": 5.00,
             "variacaoItem": [
                 1
             ]
         },
         {
             "idCategoria": 1,
+            "idItem": 4,
+            "nomeItem": "Item 4",
+            "valorItem": 1.05,
+            "variacaoItem": [
+                1,
+                3
+            ]
+        },
+        {
+            "idCategoria": 1,
             "idItem": 5,
-            "nomeItem": "Item 2",
+            "nomeItem": "Item 5",
+            "valorItem": 7.80,
             "variacaoItem": [
                 1,
                 2,
