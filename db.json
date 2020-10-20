@@ -137,5 +137,10 @@
             "id": 5,
             "nomeVariacao": "Variacao 5"
         }
+    ],
+    "ItemSolicitado": [
+        {
+            "idItem": 4
+        }
     ]
 }
