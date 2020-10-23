@@ -4,7 +4,10 @@
             "id": 1,
             "username": "system",
             "password": "12345",
-            "idFilial": 1
+            "filial": {
+                "idFilial": 1,
+                "nomeFilial": "Filial 01"
+            }
         }
     ],
     "categoria": [
