@@ -1,4 +1,12 @@
 {
+    "usuario": [
+        {
+            "id": 1,
+            "username": "system",
+            "password": "12345",
+            "idFilial": 1
+        }
+    ],
     "categoria": [
         {
             "id": 1,
