@@ -244,7 +244,7 @@
             ]
         }
     ],
-    "Pedido": [
+    "pedido": [
         {
             "idPedido": 4,
             "dateTimePedido": "1969-07-20 20:18:04Z",
