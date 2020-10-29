@@ -246,9 +246,49 @@
     ],
     "pedido": [
         {
-            "idPedido": 4,
+            "idPedido": 1,
             "dateTimePedido": "1969-07-20 20:18:04Z",
             "mesaFichaPedido": "123",
+            "atendentePedido": "Anastácia",
+            "produtoPedido": [
+                {
+                    "id": 1,
+                    "qtde": 1,
+                    "dateTimeProduto": "1969-07-20 20:18:04Z",
+                    "idProduto": 1,
+                    "variacoes": [
+                        {
+                            "id": 1,
+                            "nomeVariacao": "Variacao 1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idPedido": 2,
+            "dateTimePedido": "1969-07-20 20:18:04Z",
+            "mesaFichaPedido": "342",
+            "atendentePedido": "Anastácia",
+            "produtoPedido": [
+                {
+                    "id": 1,
+                    "qtde": 1,
+                    "dateTimeProduto": "1969-07-20 20:18:04Z",
+                    "idProduto": 1,
+                    "variacoes": [
+                        {
+                            "id": 1,
+                            "nomeVariacao": "Variacao 1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idPedido": 3,
+            "dateTimePedido": "1969-07-20 20:18:04Z",
+            "mesaFichaPedido": "456",
             "atendentePedido": "Anastácia",
             "produtoPedido": [
                 {
