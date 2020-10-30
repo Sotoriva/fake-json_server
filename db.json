@@ -252,19 +252,29 @@
             "atendentePedido": "Anastácia",
             "produtoPedido": [
                 {
-            "id": 9,
-            "produtos": [
-                {
-                    "idItem": 1,
-                    "nomeItem": "Item 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "variacaoProduto": [
+                    "id": 1,
+                    "qtde": 1,
+                    "dateTimeProduto": "1969-07-20 20:18:04Z",
+                    "idProduto": 1,
+                    "variacoes": [
                         {
-                            "id": 2,
-                            "nomeVariacao": "Variacao 2"
+                            "id": 1,
+                            "nomeVariacao": "Variacao 1"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "qtde": 3,
+                    "dateTimeProduto": "1969-07-20 21:18:04Z",
+                    "idProduto": 5,
+                    "variacoes": [
+                        {
+                            "id": 1,
+                            "nomeVariacao": "Variacao 1"
                         }
                     ]
                 }
-         
             ]
         },
         {
