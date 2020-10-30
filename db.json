@@ -252,17 +252,19 @@
             "atendentePedido": "Anastácia",
             "produtoPedido": [
                 {
-                    "id": 1,
-                    "qtde": 1,
-                    "dateTimeProduto": "1969-07-20 20:18:04Z",
-                    "idProduto": 1,
-                    "variacoes": [
+            "id": 9,
+            "produtos": [
+                {
+                    "idItem": 1,
+                    "nomeItem": "Item 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "variacaoProduto": [
                         {
-                            "id": 1,
-                            "nomeVariacao": "Variacao 1"
+                            "id": 2,
+                            "nomeVariacao": "Variacao 2"
                         }
                     ]
                 }
+         
             ]
         },
         {
