@@ -248,8 +248,8 @@
         {
             "idPedido": 1,
             "dateTimePedido": "1969-07-20 20:18:04Z",
-            "mesaFichaPedido": "123",
-            "atendentePedido": "Anastácia",
+            "mesaFichaPedido": 123,
+            "atendentePedido": 00,
             "produtoPedido": [
                 {
                     "id": 1,
@@ -280,8 +280,8 @@
         {
             "idPedido": 2,
             "dateTimePedido": "1969-07-20 20:18:04Z",
-            "mesaFichaPedido": "342",
-            "atendentePedido": "Anastácia",
+            "mesaFichaPedido": 342,
+            "atendentePedido": 123,
             "produtoPedido": [
                 {
                     "id": 1,
@@ -300,8 +300,8 @@
         {
             "idPedido": 3,
             "dateTimePedido": "1969-07-20 20:18:04Z",
-            "mesaFichaPedido": "456",
-            "atendentePedido": "Anastácia",
+            "mesaFichaPedido": 456,
+            "atendentePedido": 23,
             "produtoPedido": [
                 {
                     "id": 1,
